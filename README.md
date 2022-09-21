@@ -1,3 +1,3 @@
 # website
 
-Simple Website created using Flask.
+Simple Website
