@@ -1,3 +1,3 @@
 # website
 
-A Simple Website built with Python Flask framwork.
+A Simple Website built with Python Flask framework.
